@@ -1,0 +1,270 @@
+/* ==========================================================================
+   Header & Navigation Styles
+   ========================================================================== */
+
+.site-header {
+  background-color: #FFFFFF;
+  position: sticky;
+  top: 0;
+  z-index: 1020;
+  box-shadow: 0 2px 12px rgba(20, 90, 67, 0.08);
+  transition: all var(--transition-fast);
+}
+
+.site-header .navbar {
+  padding: 0.75rem 0;
+}
+
+.navbar-brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  text-decoration: none;
+}
+
+.brand-logo-img {
+  width: 52px;
+  height: 52px;
+  object-fit: contain;
+  transition: transform var(--transition-normal);
+}
+
+.navbar-brand:hover .brand-logo-img {
+  transform: rotate(5deg) scale(1.05);
+}
+
+.brand-text-wrap {
+  display: flex;
+  flex-direction: column;
+}
+
+.brand-title {
+  font-size: 1.35rem;
+  font-weight: 800;
+  color: var(--color-primary);
+  line-height: 1.1;
+  letter-spacing: -0.5px;
+}
+
+.brand-subtitle {
+  font-size: 0.72rem;
+  color: var(--color-accent-gold);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+}
+
+/* Nav items */
+.nav-link-mekong {
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: var(--color-dark-text) !important;
+  padding: 8px 16px !important;
+  border-radius: var(--radius-pill);
+  transition: all var(--transition-fast);
+  position: relative;
+}
+
+.nav-link-mekong:hover {
+  color: var(--color-primary) !important;
+  background-color: var(--color-light-green);
+}
+
+.nav-link-mekong.active {
+  color: var(--color-white) !important;
+  background-color: var(--color-primary);
+  box-shadow: 0 2px 8px rgba(20, 90, 67, 0.25);
+}
+
+/* Social icons in header */
+.header-social-links {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.header-social-btn {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--color-light-green);
+  color: var(--color-primary);
+  font-size: 1rem;
+  transition: all var(--transition-fast);
+}
+
+.header-social-btn:hover {
+  background-color: var(--color-primary);
+  color: var(--color-white);
+  transform: translateY(-2px);
+}
+
+/* Mobile toggler */
+.navbar-toggler {
+  border: none;
+  padding: 8px;
+  font-size: 1.3rem;
+  color: var(--color-primary);
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.navbar-toggler:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+/* ==========================================================================
+   Footer Styles
+   ========================================================================== */
+
+.site-footer {
+  background-color: #0d3b2c;
+  color: #DDE7DF;
+  padding: 4.5rem 0 2rem;
+  position: relative;
+  margin-top: 5rem;
+}
+
+.site-footer::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 6px;
+  background: linear-gradient(90deg, var(--color-primary), var(--color-accent-gold), var(--color-secondary));
+}
+
+.footer-brand {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin-bottom: 1.25rem;
+}
+
+.footer-logo-img {
+  width: 58px;
+  height: 58px;
+  object-fit: contain;
+  background-color: #FFFFFF;
+  border-radius: 50%;
+  padding: 2px;
+}
+
+.footer-title {
+  color: #FFFFFF;
+  font-weight: 800;
+  font-size: 1.4rem;
+  margin: 0;
+}
+
+.footer-subtitle {
+  color: var(--color-accent-gold);
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.footer-desc {
+  font-size: 0.92rem;
+  line-height: 1.7;
+  color: #B4C6BA;
+  margin-bottom: 1.5rem;
+}
+
+.footer-heading {
+  color: #FFFFFF;
+  font-size: 1.15rem;
+  font-weight: 700;
+  margin-bottom: 1.25rem;
+  position: relative;
+  padding-bottom: 8px;
+}
+
+.footer-heading::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 36px;
+  height: 2px;
+  background-color: var(--color-accent-gold);
+}
+
+.footer-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-links li {
+  margin-bottom: 0.65rem;
+}
+
+.footer-links a {
+  color: #C7D7CD;
+  font-size: 0.92rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  transition: all var(--transition-fast);
+}
+
+.footer-links a:hover {
+  color: var(--color-accent-gold);
+  transform: translateX(4px);
+}
+
+.footer-contact-item {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  margin-bottom: 0.75rem;
+  font-size: 0.9rem;
+  color: #C7D7CD;
+}
+
+.footer-contact-item i {
+  color: var(--color-accent-gold);
+  font-size: 1.1rem;
+  margin-top: 2px;
+}
+
+.footer-bottom {
+  margin-top: 3.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  font-size: 0.85rem;
+  color: #8fa897;
+}
+
+.footer-social-group {
+  display: flex;
+  gap: 10px;
+}
+
+.footer-social-icon {
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.08);
+  color: #FFFFFF;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all var(--transition-fast);
+}
+
+.footer-social-icon:hover {
+  background: var(--color-accent-gold);
+  color: #0d3b2c;
+  transform: translateY(-3px);
+}

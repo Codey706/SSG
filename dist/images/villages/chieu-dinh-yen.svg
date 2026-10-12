@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#9a031e"/>
+      <stop offset="100%" stop-color="#e36414"/>
+    </linearGradient>
+    <linearGradient id="water" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.4"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#bg)"/>
+
+  <!-- Sun or Moon Accent -->
+  <circle cx="620" cy="160" r="90" fill="#D9A441" opacity="0.35"/>
+  <circle cx="620" cy="160" r="60" fill="#FFEAA7" opacity="0.5"/>
+
+  <!-- Wave Lines / Water Texture -->
+  <path d="M0,350 Q200,320 400,350 T800,340 L800,500 L0,500 Z" fill="url(#water)"/>
+  <path d="M0,400 Q200,380 400,400 T800,390 L800,500 L0,500 Z" fill="#000000" opacity="0.25"/>
+
+  <!-- Silhouette Elements: Boat / Coconut / Palm -->
+  <g fill="#0b241b" opacity="0.9">
+    <!-- Coconut Leaves on right edge -->
+    <path d="M720,80 Q760,20 820,10 Q790,50 780,110 Z"/>
+    <path d="M720,80 Q780,70 820,90 Q770,110 750,140 Z"/>
+    <path d="M720,80 Q770,130 810,180 Q750,160 730,130 Z"/>
+
+    <!-- Traditional Wooden Sampan Boat -->
+    <path d="M280,380 Q370,410 520,400 Q560,395 580,375 Q520,390 320,375 Z"/>
+    <!-- Nón lá rower -->
+    <polygon points="430,350 470,350 450,330" fill="#D9A441"/>
+    <line x1="450" y1="350" x2="450" y2="380" stroke="#0b241b" stroke-width="4"/>
+    <line x1="460" y1="360" x2="490" y2="400" stroke="#D9A441" stroke-width="3"/>
+  </g>
+
+  <!-- Cultural Vignette Badge in Center Left -->
+  <g transform="translate(60, 60)">
+    <rect width="220" height="38" rx="19" fill="#145A43" opacity="0.9" stroke="#D9A441" stroke-width="1.5"/>
+    <text x="25" y="24" font-family="'Be Vietnam Pro', sans-serif" font-size="14" font-weight="700" fill="#D9A441" letter-spacing="0.5">
+      LÀNG NGHỀ THỦ CÔNG
+    </text>
+  </g>
+
+  <!-- Big Decorative Title Box at Bottom -->
+  <rect x="0" y="320" width="800" height="180" fill="#145a43" fill-opacity="0.88"/>
+  <line x1="0" y1="320" x2="800" y2="320" stroke="#D9A441" stroke-width="2"/>
+
+  <!-- Title Text -->
+  <text x="50" y="380" font-family="'Be Vietnam Pro', sans-serif" font-size="28" font-weight="700" fill="#FAF8F1">
+    Làng chiếu Định Yên
+  </text>
+  <text x="50" y="420" font-family="'Be Vietnam Pro', sans-serif" font-size="16" fill="#E8F3EA" opacity="0.9">
+    Hồn quê miền Tây Nam Bộ • SoulOfMekong
+  </text>
+
+  <!-- Lotus emblem watermark -->
+  <g transform="translate(710, 410) scale(0.6)" fill="#D9A441" opacity="0.7">
+    <path d="M30,10 C35,25 25,45 0,50 C25,45 35,25 30,10 Z"/>
+    <path d="M30,10 C25,25 35,45 60,50 C35,45 25,25 30,10 Z"/>
+    <path d="M30,5 C20,25 5,40 -25,40 C5,35 20,25 30,5 Z"/>
+    <path d="M30,5 C40,25 55,40 85,40 C55,35 40,25 30,5 Z"/>
+  </g>
+</svg>

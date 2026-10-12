@@ -1,0 +1,278 @@
+[
+  {
+    "id": 1,
+    "name": "Làng dệt chiếu Định Yên",
+    "slug": "lang-det-chieu-dinh-yen",
+    "location": "Xã Định An & Định Yên, Huyện Lấp Vò, Tỉnh Đồng Tháp",
+    "category": "Làng nghề thủ công",
+    "description": "Nổi tiếng với 'chợ ma' họp ban đêm huyền thoại, làng chiếu Định Yên đã gìn giữ nghề dệt chiếu hoa truyền thống rực rỡ hơn một thế kỷ qua ven bờ sông Hậu.",
+    "image": "/images/villages/chieu-dinh-yen.svg",
+    "gallery": [
+      "/images/villages/chieu-dinh-yen.svg",
+      "/images/articles/con-nguoi-mien-tay.svg"
+    ],
+    "established": "Hơn 100 năm",
+    "artisanCount": "Gần 1.000 hộ gia đình",
+    "significance": "Di sản văn hóa phi vật thể quốc gia, biểu tượng của sự cần cù, chịu thương chịu khó của người phụ nữ miệt vườn sông Hậu.",
+    "process": [
+      {
+        "step": 1,
+        "title": "Thu hoạch và phơi trói lác",
+        "detail": "Cây lác (cói) sau khi cắt từ đồng về được chẻ nhỏ đều tăm tắp, phơi dưới nắng giòn từ 3 đến 5 nắng cho sợi lác dai và trắng sáng."
+      },
+      {
+        "step": 2,
+        "title": "Nhuộm phẩm màu truyền thống",
+        "detail": "Sợi lác được nhúng vào các chảo phẩm màu sôi lục sùng sục gồm 4 sắc chủ đạo: đỏ, xanh, vàng, tím, rồi phơi lại dưới nắng ấm cho màu ăn sâu vào thớ lác."
+      },
+      {
+        "step": 3,
+        "title": "Dệt chiếu hoa trên khung gỗ",
+        "detail": "Hai người cùng phối hợp trên khung dệt: người luồn lác thoăn thoắt, người dập khung dệt dứt khoát để tạo nên những tấm chiếu hoa văn chữ Thọ, hoa mai, rồng phụng sắc nét."
+      },
+      {
+        "step": 4,
+        "title": "Cắt tỉa và hoàn thiện",
+        "detail": "Chiếu dệt xong được cắt đều biên, gập mép chắc chắn và mang phơi thêm một nắng nhẹ trước khi đem bán."
+      }
+    ],
+    "content": "Làng chiếu Định Yên nằm hiền hòa bên bờ sông Hậu, quanh năm rực rỡ bởi những bó lác nhuộm đủ sắc màu phơi dọc theo lối đi, sân đình và trước hiên nhà. Xưa kia, do ban ngày bận rộn đồng áng và dệt chiếu, người dân chỉ có thể họp chợ vào lúc nửa đêm từ 1 đến 4 giờ sáng dưới ánh đèn dầu leo lét, tạo nên cái tên 'chợ ma' độc nhất vô nhị. Ngày nay, dù có máy móc hỗ trợ, chiếc chiếu dệt tay thủ công Định Yên vẫn giữ nguyên nét tinh xảo, bền đẹp và là niềm tự hào của cả vùng châu thổ.",
+    "references": [
+      {
+        "title": "Nghề dệt chiếu Định Yên được công nhận là Di sản văn hóa phi vật thể quốc gia",
+        "source": "Bộ Văn hóa, Thể thao và Du lịch (2013)",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Làng gốm đỏ Mang Thít – Vĩnh Long",
+    "slug": "lang-gom-do-mang-thit",
+    "location": "Huyện Mang Thít, Tỉnh Vĩnh Long",
+    "category": "Làng nghề thủ công",
+    "description": "Được mệnh danh là 'Vương quốc đỏ' với hàng ngàn lò gạch, lò gốm cổ kính hình vòm cung san sát nhau trải dài theo bờ sông Thầy Cai và sông Cổ Chiên thơ mộng.",
+    "image": "/images/villages/gom-nhi-hiep.svg",
+    "gallery": [
+      "/images/villages/gom-nhi-hiep.svg",
+      "/images/banners/villages-banner.svg"
+    ],
+    "established": "Hơn 120 năm",
+    "artisanCount": "Từng có hơn 2.000 miệng lò nung",
+    "significance": "Quần thể di sản kiến trúc lò nung độc nhất vô nhị ở Đông Nam Á, tạo ra dòng gốm đất nung màu đỏ hồng đặc trưng không lẫn vào đâu được.",
+    "process": [
+      {
+        "step": 1,
+        "title": "Khai thác và lắng lọc đất sét đỏ",
+        "detail": "Đất sét phù sa trầm tích dọc bờ sông Cổ Chiên được lấy về, phơi khô, nghiền nhuyễn rồi ngâm nước lắng lọc để loại bỏ hoàn toàn tạp chất."
+      },
+      {
+        "step": 2,
+        "title": "Tạo hình trên bàn xoay",
+        "detail": "Nghệ nhân dùng bàn xoay và bàn tay tài hoa nắn vuốt từng chiếc bình gốm, đôn chậu, hoặc đúc khuôn cho các sản phẩm trang trí tinh xảo."
+      },
+      {
+        "step": 3,
+        "title": "Điêu khắc và phơi mộc",
+        "detail": "Sản phẩm được chạm khắc hoa văn dân dã như hoa sen, chim muông, rồi hong khô tự nhiên trong nhà mát tránh nứt nẻ."
+      },
+      {
+        "step": 4,
+        "title": "Nung chín bằng trấu trong lò vòm",
+        "detail": "Gốm được xếp vào lò vòm cổ kính nung ròng rã cả tuần lễ bằng trấu. Khói trấu và chất khoáng trong đất tạo nên sắc đỏ hồng ánh kim tự nhiên tuyệt đẹp."
+      }
+    ],
+    "content": "Vùng đất Mang Thít ven sông Cổ Chiên được thiên nhiên ưu đãi nguồn đất sét đỏ mịn dồi dào. Trải qua hơn một thế kỷ, nghề làm gạch gốm nơi đây đã hình thành nên một quần thể lò nung kỳ vĩ trông như những tòa lâu đài La Mã cổ đại. Khi nung bằng trấu, gốm Mang Thít khoác lên mình sắc đỏ gạch ánh phấn bạc tự nhiên, được xuất khẩu sang nhiều nước châu Âu và Bắc Mỹ.",
+    "references": [
+      {
+        "title": "Đề án Di sản đương đại Mang Thít",
+        "source": "UBND Tỉnh Vĩnh Long (2021)",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Làng bánh tráng Thuận Hưng – Thốt Nốt",
+    "slug": "lang-banh-trang-thuan-hung",
+    "location": "Phường Thuận Hưng, Quận Thốt Nốt, TP. Cần Thơ",
+    "category": "Sản phẩm tiêu biểu",
+    "description": "Làng nghề bánh tráng truyền thống có tuổi đời hơn 200 năm, nổi tiếng với những vỉ phơi bánh trắng muốt trải dài khắp các ngõ xóm, thơm lừng mùi gạo mới.",
+    "image": "/images/villages/banh-trang-thuan-hung.svg",
+    "gallery": [
+      "/images/villages/banh-trang-thuan-hung.svg",
+      "/images/articles/banh-dan-gian.svg"
+    ],
+    "established": "Hơn 200 năm",
+    "artisanCount": "Hơn 500 hộ gia đình",
+    "significance": "Di sản văn hóa phi vật thể quốc gia, lưu giữ tinh hoa ẩm thực từ hạt gạo phù sa vùng đồng bằng châu thổ sông Cửu Long.",
+    "process": [
+      {
+        "step": 1,
+        "title": "Chọn gạo và xay bột nước",
+        "detail": "Sử dụng giống gạo Thốt Nốt đặc sản ngâm đúng giờ rồi xay cối đá thành thứ bột nước sánh mịn, không pha hóa chất."
+      },
+      {
+        "step": 2,
+        "title": "Tráng bánh trên nồi hơi",
+        "detail": "Người thợ ngồi bên bếp lò đỏ lửa, múc gáo bột tráng mỏng tròn xoe trên mặt vải căng nồi hơi nước đang bốc khói nghi ngút."
+      },
+      {
+        "step": 3,
+        "title": "Vớt bánh ra vỉ tre",
+        "detail": "Dùng que tre dẹp vớt chiếc bánh nóng hổi đặt khéo léo lên chiếc vỉ đan bằng tre (liếp phơi) mà không hề bị rách hay nhăn nhúm."
+      },
+      {
+        "step": 4,
+        "title": "Phơi nắng và dỡ bánh",
+        "detail": "Bánh được đem phơi dưới nắng tự nhiên chừng 30 phút. Bánh vừa ráo tới phải dỡ ngay để giữ độ dẻo thơm, không bị giòn gãy."
+      }
+    ],
+    "content": "Bánh tráng Thuận Hưng nổi tiếng khắp Nam Bộ bởi độ dẻo, mịn, thơm và để được lâu mà không bị mốc hay chua. Làng nghề làm ra 4 loại bánh chính: bánh tráng mặn (dùng cuốn thịt luộc, chả giò), bánh tráng ngọt (pha nước cốt dừa và đường thơm béo), bánh tráng xốp và bánh tráng nem. Mỗi dịp giáp Tết, cả làng Thuận Hưng đỏ lửa ngày đêm, những giàn phơi trắng muốt như những dải lụa mềm vắt ngang dòng sông Thốt Nốt thanh bình.",
+    "references": [
+      {
+        "title": "Nghề làm bánh tráng Thuận Hưng đón nhận bằng Di sản văn hóa phi vật thể quốc gia",
+        "source": "Bộ Văn hóa, Thể thao và Du lịch (2023)",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Làng nghề hủ tiếu Sa Đéc – Đồng Tháp",
+    "slug": "lang-nghe-hu-tieu-sa-dec",
+    "location": "Xã Tân Phú Đông, TP. Sa Đéc, Tỉnh Đồng Tháp",
+    "category": "Sản phẩm tiêu biểu",
+    "description": "Thủ phủ bột gạo Sa Đéc với bề dày hơn 100 năm đã tạo nên sợi hủ tiếu trứ danh: cọng bánh trắng tinh, mềm dai tự nhiên, không bở khi chan nước lèo nóng.",
+    "image": "/images/villages/hu-tieu-sa-dec.svg",
+    "gallery": [
+      "/images/villages/hu-tieu-sa-dec.svg",
+      "/images/articles/am-thuc-mua-nuoc-noi.svg"
+    ],
+    "established": "Hơn 100 năm",
+    "artisanCount": "Hơn 350 lò sản xuất bột và hủ tiếu",
+    "significance": "Thương hiệu bột truyền thống danh tiếng số một miền Tây, là nguyên liệu cốt lõi tạo nên linh hồn của món hủ tiếu Nam Bộ trứ danh.",
+    "process": [
+      {
+        "step": 1,
+        "title": "Ngâm gạo và xay bột nhuyễn",
+        "detail": "Gạo được tuyển chọn kỹ lưỡng, ngâm mềm rồi xay nhuyễn cùng nguồn nước ngọt lành đặc trưng của dòng sông Tiền hiền hòa."
+      },
+      {
+        "step": 2,
+        "title": "Lắng gạn và lọc bột ướt",
+        "detail": "Bột được lắng lọc qua nhiều tầng nước trong nhiều ngày để loại bỏ hoàn toàn vị chua và chất béo, tạo nên tinh bột thuần khiết."
+      },
+      {
+        "step": 3,
+        "title": "Hấp chín và phơi bánh mộc",
+        "detail": "Bột được tráng mỏng thành từng tấm bánh tròn lớn, hấp chín hơi rồi trải lên liếp tre phơi ráo sợi."
+      },
+      {
+        "step": 4,
+        "title": "Xắt sợi hủ tiếu",
+        "detail": "Tấm bánh khô ráo được đưa vào máy hoặc dao xắt thành những sợi hủ tiếu đều đặn, dai bóng tự nhiên."
+      }
+    ],
+    "content": "Sa Đéc không chỉ nổi tiếng là xứ ngàn hoa mà còn là cái nôi của nghề làm bột gạo lớn nhất miền Nam. Nhờ dòng nước ngọt mát lành của sông Tiền có độ pH lý tưởng, bột Sa Đéc khi chế biến luôn có độ trắng tự nhiên, dẻo dai và thơm nhẹ mùi lúa mới. Sợi hủ tiếu Sa Đéc khi nấu không bị đục nước lèo, cọng bánh trơn mượt, thấm đượm gia vị, tạo nên món ăn đậm đà bản sắc phương Nam.",
+    "references": [
+      {
+        "title": "Nghề làm bột Sa Đéc - Di sản văn hóa phi vật thể quốc gia",
+        "source": "Bộ Văn hóa, Thể thao và Du lịch (2020)",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Làng đan lục bình Cồn Én – An Giang",
+    "slug": "lang-dan-luc-binh-con-en",
+    "location": "Huyện Chợ Mới, Tỉnh An Giang",
+    "category": "Làng nghề thủ công",
+    "description": "Biến loài cây hoang dại trôi dạt khắp sông ngòi thành những sản phẩm thủ công mỹ nghệ tinh tế, thân thiện môi trường xuất khẩu sang khắp năm châu.",
+    "image": "/images/villages/dan-luc-binh.svg",
+    "gallery": [
+      "/images/villages/dan-luc-binh.svg",
+      "/images/articles/xuong-ba-la.svg"
+    ],
+    "established": "Hơn 25 năm",
+    "artisanCount": "Hơn 2.000 lao động nhàn rỗi miệt vườn",
+    "significance": "Minh chứng cho óc sáng tạo và tinh thần vượt khó của người dân miền lũ, giải quyết việc làm cho hàng ngàn phụ nữ nông thôn.",
+    "process": [
+      {
+        "step": 1,
+        "title": "Cắt và phơi cọng lục bình",
+        "detail": "Lựa những cọng lục bình già dài trên 60cm trên sông, cắt bỏ gốc rễ và lá rồi mang phơi dưới nắng gắt từ 4-5 ngày cho khô cong màu vàng óng."
+      },
+      {
+        "step": 2,
+        "title": "Xử lý chống ẩm mốc",
+        "detail": "Sợi lục bình khô được xông hơi diêm sinh hoặc nhúng dung dịch tự nhiên để chống mối mọt và tăng độ dẻo dai."
+      },
+      {
+        "step": 3,
+        "title": "Đan lát theo khung sắt mỹ thuật",
+        "detail": "Thợ thủ công dùng kỹ thuật đan hạt gạo, đan xương cá, đan mắt cáo bao quanh khung sắt uốn nghệ thuật."
+      },
+      {
+        "step": 4,
+        "title": "Sơn bóng và hoàn thiện sản phẩm",
+        "detail": "Sản phẩm được khò lửa làm sạch tơ bụi, quét sơn bóng bảo vệ tạo độ bền đẹp trước khi đóng gói xuất khẩu."
+      }
+    ],
+    "content": "Cây lục bình (bèo tây) vốn là loài thực vật trôi nổi cản trở ghe thuyền qua lại trên sông. Nhưng nhờ sự cần cù và khéo léo, người dân Cồn Én đã biến chúng thành tài nguyên quý giá. Những chiếc giỏ xách, đệm ngồi, thảm trang trí, chao đèn làm từ lục bình mộc mạc, gần gũi với thiên nhiên đã chinh phục được người tiêu dùng ở cả Nhật Bản, Hàn Quốc và châu Âu.",
+    "references": [
+      {
+        "title": "Làng nghề đan đát lục bình An Giang - Phát triển bền vững cùng dòng Mekong",
+        "source": "Sở Công Thương Tỉnh An Giang (2022)",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Làng đúc lư đồng An Hội – Bến Tre",
+    "slug": "lang-duc-lu-dong-an-hoi",
+    "location": "Phường An Hội, TP. Bến Tre, Tỉnh Bến Tre",
+    "category": "Làng nghề thủ công",
+    "description": "Làng nghề đúc đồng truyền thống cổ xưa bậc nhất Nam Bộ, nơi những người thợ tài hoa đỏ lửa ngày đêm đúc nên những bộ lư đồng thờ cúng tôn nghiêm.",
+    "image": "/images/villages/duc-lu-dong.svg",
+    "gallery": [
+      "/images/villages/duc-lu-dong.svg",
+      "/images/articles/con-nguoi-mien-tay.svg"
+    ],
+    "established": "Hơn 150 năm",
+    "artisanCount": "Nhiều thế hệ nghệ nhân cha truyền con nối",
+    "significance": "Bảo tồn giá trị văn hóa tâm linh tín ngưỡng thờ cúng tổ tiên sâu sắc của người Việt phương Nam.",
+    "process": [
+      {
+        "step": 1,
+        "title": "Làm khuôn đất sét và sáp ong",
+        "detail": "Khuôn được làm từ đất sét mịn trộn trấu nhuyễn, sau đó đắp lớp sáp ong để khắc họa chi tiết rồng phượng tinh xảo."
+      },
+      {
+        "step": 2,
+        "title": "Nấu đồng đỏ trong lò than",
+        "detail": "Đồng nguyên chất được nấu chảy lỏng ở nhiệt độ trên 1.000 độ C trong những chiếc cơi đất nung chịu nhiệt."
+      },
+      {
+        "step": 3,
+        "title": "Rót đồng nóng chảy vào khuôn",
+        "detail": "Các nghệ nhân dày dạn kinh nghiệm phối hợp nhịp nhàng rót dòng đồng đỏ rực vào miệng khuôn một cách chuẩn xác."
+      },
+      {
+        "step": 4,
+        "title": "Rỡ khuôn, chạm khắc và đánh bóng",
+        "detail": "Sau khi đồng nguội, thợ đập vỡ khuôn đất, dùng ve sắt chạm tỉa lại từng đường nét vảy rồng, móng phụng rồi đánh bóng sáng ngời."
+      }
+    ],
+    "content": "Bộ lư đồng An Hội nổi tiếng với độ sắc nét, màu đồng sáng bóng và độ bền qua hàng thế kỷ. Trên bàn thờ gia tiên của mỗi gia đình Nam Bộ, bộ lư đồng trang nghiêm mang lại cảm giác ấm cúng, nhắc nhở con cháu luôn nhớ về công đức sinh thành dưỡng dục của tổ tiên cội nguồn.",
+    "references": [
+      {
+        "title": "Bảo tồn di sản nghề thủ công truyền thống đúc đồng Bến Tre",
+        "source": "Sở VHTT&DL Bến Tre (2021)",
+        "url": "#"
+      }
+    ]
+  }
+]

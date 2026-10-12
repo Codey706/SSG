@@ -1,0 +1,579 @@
+[
+  {
+    "id": 1,
+    "title": "Lễ hội Ok Om Bok – Nét đẹp văn hóa Khmer miền Tây",
+    "slug": "le-hoi-ok-om-bok-khmer-mientay",
+    "categoryId": 1,
+    "categoryName": "Lễ hội & phong tục",
+    "description": "Lễ hội Ok Om Bok (còn gọi là Lễ Cúng Trăng) là di sản văn hóa phi vật thể quốc gia, thể hiện lòng biết ơn của đồng bào Khmer đối với thần Mặt Trăng đã ban cho mùa màng bội thu.",
+    "image": "/images/articles/ok-om-bok.svg",
+    "gallery": [
+      "/images/articles/ok-om-bok.svg",
+      "/images/banners/hero-mekong.svg",
+      "/images/articles/dem-hoa-dang.svg"
+    ],
+    "author": "Ban Biên Tập SoulOfMekong",
+    "publishedAt": "2026-10-01",
+    "readTime": "5 phút đọc",
+    "featured": true,
+    "isRiverLife": false,
+    "content": [
+      {
+        "type": "heading",
+        "text": "Ý nghĩa thiêng liêng của Lễ Cúng Trăng"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cứ vào rằm tháng 10 âm lịch hàng năm, khi con nước son bắt đầu rút dần trên các cánh đồng châu thổ Cửu Long, đồng bào Khmer tại Trà Vinh, Sóc Trăng lại rộn ràng bước vào ngày hội Ok Om Bok. Theo quan niệm của người Khmer, Mặt Trăng là vị thần cai quản thời tiết và mùa màng, che chở cho vạn vật tốt tươi."
+      },
+      {
+        "type": "paragraph",
+        "text": "Lễ vật dâng cúng thần Mặt Trăng là những nông sản đầu mùa vừa mới thu hoạch, trong đó cốm dẹp (Om Bok) là món ăn không thể thiếu. Những hạt nếp non vừa chín tới được rang giòn rồi cho vào cối giã đều tay, sàng sảy sạch vỏ trấu, trộn cùng đường thốt nốt và dừa nạo béo ngậy."
+      },
+      {
+        "type": "heading",
+        "text": "Sôi động hội đua ghe Ngo trên dòng sông Maspero"
+      },
+      {
+        "type": "paragraph",
+        "text": "Điểm nhấn cuốn hút nhất của ngày hội chính là giải đua ghe Ngo truyền thống. Chiếc ghe Ngo dài gần 30 mét, chạm khắc hình rắn thần Naga rực rỡ sắc màu, lướt như bay trên mặt nước dưới tiếng reo hò, chiêng trống vang dội cả một góc trời Tây Nam Bộ."
+      },
+      {
+        "type": "quote",
+        "text": "Tiếng còi hiệu vang lên, hàng chục tay dầm đồng thanh vút mái chèo, bọt nước tung trắng xóa trên dòng sông quê hương mang theo ước vọng về một năm mưa thuận gió hòa."
+      },
+      {
+        "type": "paragraph",
+        "text": "Khi màn đêm buông xuống, hàng ngàn chiếc đèn hoa đăng và đèn gió lấp lánh được thả trôi theo dòng sông hoặc bay vút lên bầu trời đêm, tạo nên một khung cảnh huyền ảo, kết nối con người với cội nguồn tổ tiên."
+      }
+    ],
+    "references": [
+      {
+        "title": "Hồ sơ Di sản văn hóa phi vật thể quốc gia: Lễ hội Ok Om Bok",
+        "source": "Bộ Văn hóa, Thể thao và Du lịch (2014)",
+        "url": "https://dsvh.gov.vn"
+      },
+      {
+        "title": "Văn hóa Khmer Nam Bộ - Bản sắc và sự hội nhập",
+        "source": "NXB Khoa học Xã hội (2018)",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Món ăn đặc trưng của miền Tây qua từng mùa nước nổi",
+    "slug": "am-thuc-mien-tay-mua-nuoc-noi",
+    "categoryId": 2,
+    "categoryName": "Ẩm thực",
+    "description": "Khi con nước lũ từ thượng nguồn đổ về bồi đắp phù sa, đất trời miền Tây lại hào phóng ban tặng những sản vật vô giá: cá linh non ngọt thịt, bông điên điển vàng rực và đọt bông súng giòn thanh.",
+    "image": "/images/articles/am-thuc-mua-nuoc-noi.svg",
+    "gallery": [
+      "/images/articles/am-thuc-mua-nuoc-noi.svg",
+      "/images/articles/banh-dan-gian.svg",
+      "/images/articles/cho-noi-cai-rang.svg"
+    ],
+    "author": "Trần Thanh Tâm",
+    "publishedAt": "2026-09-28",
+    "readTime": "6 phút đọc",
+    "featured": true,
+    "isRiverLife": true,
+    "content": [
+      {
+        "type": "heading",
+        "text": "Mùa nước nổi - Mùa sinh sôi của đất trời"
+      },
+      {
+        "type": "paragraph",
+        "text": "Từ khoảng tháng 7 đến tháng 10 âm lịch, dòng nước đỏ nặng phù sa từ sông Mê Kông tràn vào các đồng ruộng An Giang, Đồng Tháp. Với người miền Tây, lũ không phải là thiên tai mà là một mùa lễ hội ẩm thực tự nhiên đầy ắp niềm vui."
+      },
+      {
+        "type": "paragraph",
+        "text": "Đầu mùa, cá linh non chỉ bằng đầu đũa, xương mềm rụm, thịt béo ngậy. Cá linh được chế biến thành nhiều món ngon khó cưỡng: nấu canh chua bông điên điển, kho mía rục, hoặc kho tiêu ăn kèm với cơm nguội vào những buổi chiều mưa rả rích."
+      },
+      {
+        "type": "heading",
+        "text": "Bông điên điển và bông súng ma: Nét duyên ẩm thực đồng bằng"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ven bờ kênh, những rặng điên điển trổ bông vàng rực rỡ như nắng mai. Vị ngai ngái, ngọt bùi của bông điên điển khi kết hợp cùng vị béo của cá linh tạo nên hương vị đặc trưng mà bất cứ người con xa quê nào cũng khắc khoải nhớ về."
+      },
+      {
+        "type": "quote",
+        "text": "Canh chua điên điển cá linh / Ăn rồi nhớ mãi bóng hình quê hương."
+      },
+      {
+        "type": "paragraph",
+        "text": "Bên cạnh đó là lẩu mắm đậm đà hương vị mắm cá sặc, cá linh xứ Châu Đốc. Nồi lẩu sôi sùng sục giữa bàn ăn, ăn kèm với hơn hai mươi loại rau đồng nội: rau nhút, kèo nèo, bông súng, bắp chuối, rau đắng... làm say lòng mọi thực khách thập phương."
+      }
+    ],
+    "references": [
+      {
+        "title": "Văn hóa ẩm thực dân gian Nam Bộ",
+        "source": "Viện Nghiên cứu Phát triển Phương Nam (2020)",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Con người miền Tây – Chất phác, nghĩa tình và hào sảng",
+    "slug": "con-nguoi-mien-tay-chat-phac-nghia-tinh",
+    "categoryId": 3,
+    "categoryName": "Con người",
+    "description": "Địa hình sông ngòi mênh mông và thiên nhiên trù phú đã un đúc nên tính cách đặc trưng của người Nam Bộ: cởi mở, không tính toán thiệt hơn, luôn xem khách qua đường như người thân trong gia đình.",
+    "image": "/images/articles/con-nguoi-mien-tay.svg",
+    "gallery": [
+      "/images/articles/con-nguoi-mien-tay.svg",
+      "/images/articles/ao-ba-ba-khan-ran.svg",
+      "/images/articles/don-ca-tai-tu.svg"
+    ],
+    "author": "Nguyễn Minh Châu",
+    "publishedAt": "2026-09-20",
+    "readTime": "4 phút đọc",
+    "featured": true,
+    "isRiverLife": false,
+    "content": [
+      {
+        "type": "heading",
+        "text": "Tính cách hình thành từ buổi đầu mở đất"
+      },
+      {
+        "type": "paragraph",
+        "text": "Lịch sử khẩn hoang vùng đất phương Nam là hành trình gian lao nhưng đầy kiên cường. Đối diện với rừng rậm bưng biền, thú dữ và sông sâu nước chảy, con người chỉ có thể nương tựa vào nhau để sinh tồn. Tinh thần đoàn kết, tương trợ lẫn nhau từ đó đã trở thành lẽ sống tự nhiên."
+      },
+      {
+        "type": "paragraph",
+        "text": "Người miền Tây nói năng mộc mạc, nghĩ sao nói vậy, không hoa mỹ giấu giếm. Họ sẵn sàng mở rộng cửa nhà mời người lạ vào dùng bữa cơm quê, uống chén trà sen hay nhấp ly rượu nếp nồng hậu."
+      },
+      {
+        "type": "heading",
+        "text": "Triết lý sống 'Ở đời có bao nhiêu đâu mà tính'"
+      },
+      {
+        "type": "paragraph",
+        "text": "Người dân nơi đây có thái độ sống lạc quan, trân trọng phút giây hiện tại. Khi hàng xóm có việc hiếu hỷ, cả xóm cùng kéo đến xắn tay áo phụ giúp mổ heo, dựng rạp, nấu cỗ mà không cần ai trả công. Đó chính là cái nghĩa, cái tình sâu nặng của người châu thổ."
+      },
+      {
+        "type": "quote",
+        "text": "Đến miền Tây, điều đọng lại sâu sắc nhất trong lòng lữ khách không chỉ là cảnh sắc sông nước hữu tình, mà là nụ cười hiền hậu và ánh mắt chân thành của người dân."
+      }
+    ],
+    "references": [
+      {
+        "title": "Người Việt ở Tây Nam Bộ",
+        "source": "NXB Tổng Hợp TP.HCM (2019)",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Nghệ thuật Đờn ca tài tử Nam Bộ – Di sản âm nhạc ngàn năm",
+    "slug": "nghe-thuat-don-ca-tai-tu-nam-bo",
+    "categoryId": 4,
+    "categoryName": "Văn hóa truyền thống",
+    "description": "Đờn ca tài tử là loại hình nghệ thuật dân gian độc đáo của vùng đất chín rồng, được UNESCO vinh danh là Di sản văn hóa phi vật thể đại diện của nhân loại vào năm 2013.",
+    "image": "/images/articles/don-ca-tai-tu.svg",
+    "gallery": [
+      "/images/articles/don-ca-tai-tu.svg",
+      "/images/articles/con-nguoi-mien-tay.svg"
+    ],
+    "author": "Lê Quang Vinh",
+    "publishedAt": "2026-09-15",
+    "readTime": "7 phút đọc",
+    "featured": true,
+    "isRiverLife": false,
+    "content": [
+      {
+        "type": "heading",
+        "text": "Âm vang sau những giờ lao động vất vả"
+      },
+      {
+        "type": "paragraph",
+        "text": "Đờn ca tài tử bắt nguồn từ nhạc cung đình Huế kết hợp với làn điệu dân ca, hò, lý Nam Bộ vào cuối thế kỷ XIX. Khác với sân khấu cải lương biểu diễn lộng lẫy, tài tử là sinh hoạt âm nhạc bình dân diễn ra dưới bóng râm vườn cây, trên manh chiếu trải sân đình hay ngay mạn thuyền ghe bồng bềnh."
+      },
+      {
+        "type": "paragraph",
+        "text": "Dàn nhạc tài tử gồm các nhạc cụ truyền thống: đàn kìm, đàn tranh, đàn bầu, đàn cò và chiếc ghi-ta phím lõm độc đáo. Tiếng đàn lúc réo rắt nỉ non, lúc trầm hùng tha thiết, như giãi bày bao nỗi niềm tâm sự của người dân phương Nam."
+      },
+      {
+        "type": "heading",
+        "text": "Dạ Cổ Hoài Lang – Khúc ca bất hủ"
+      },
+      {
+        "type": "paragraph",
+        "text": "Bản nhạc 'Dạ Cổ Hoài Lang' do nhạc sĩ Cao Văn Lầu sáng tác năm 1919 tại Bạc Liêu được xem là tiền thân của bài vọng cổ ngày nay. Từng nhịp đờn rung lên khắc họa tâm trạng người phụ nữ đợi chồng trong đêm vắng, lay động lòng người qua bao thế hệ."
+      },
+      {
+        "type": "quote",
+        "text": "Từ là từ phu tướng / Báu kiếm sắc phán lên đàng / Vào ra luống trông tin chàng / Năm canh mơ màng..."
+      }
+    ],
+    "references": [
+      {
+        "title": "Nghệ thuật Đờn ca tài tử Nam Bộ - UNESCO Intangible Cultural Heritage",
+        "source": "UNESCO (2013)",
+        "url": "https://ich.unesco.org/en/RL/art-of-don-ca-tai-tu-music-and-song-in-southern-viet-nam-00733"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Chợ nổi Cái Răng – Nhịp sống bồng bềnh buổi sớm mai",
+    "slug": "cho-noi-cai-rang-nhip-song-song-nuoc",
+    "categoryId": 5,
+    "categoryName": "Đời sống sông nước",
+    "description": "Nằm trên nhánh sông Cần Thơ, chợ nổi Cái Răng là biểu tượng văn hóa giao thương đường thủy lâu đời, nơi hội tụ hàng trăm ghe thuyền chở đầy hoa trái tươi ngon từ lúc trời chưa tỏ mặt người.",
+    "image": "/images/articles/cho-noi-cai-rang.svg",
+    "gallery": [
+      "/images/articles/cho-noi-cai-rang.svg",
+      "/images/banners/hero-mekong.svg",
+      "/images/articles/xuong-ba-la.svg"
+    ],
+    "author": "Ban Biên Tập SoulOfMekong",
+    "publishedAt": "2026-09-10",
+    "readTime": "5 phút đọc",
+    "featured": true,
+    "isRiverLife": true,
+    "content": [
+      {
+        "type": "heading",
+        "text": "Chợ họp khi sương sớm còn vờn mặt sóng"
+      },
+      {
+        "type": "paragraph",
+        "text": "Từ 4 giờ sáng, khúc sông Cái Răng đã bắt đầu huyên náo bởi tiếng máy đuôi tôm nổ giòn giã. Những chiếc ghe bầu từ Vĩnh Long, Hậu Giang, Sóc Trăng nối đuôi nhau chở đầy dưa hấu, khóm, bưởi năm roi, sầu riêng chín cây về tụ họp."
+      },
+      {
+        "type": "paragraph",
+        "text": "Nét độc đáo nhất ở chợ nổi là 'cây bẹo' – một cây sào tre dựng đứng trước mũi ghe. Muốn bán thứ gì, chủ ghe treo thứ đó lên ngọn sào. Giữa mênh mông sông nước ồn ào tiếng sóng vỗ, cây bẹo là biển hiệu không lời kỳ diệu mà người mua chỉ cần nhìn từ xa là biết ngay."
+      },
+      {
+        "type": "heading",
+        "text": "Thưởng thức bữa sáng lắc lư trên sóng nước"
+      },
+      {
+        "type": "paragraph",
+        "text": "Trải nghiệm khó quên của du khách là ngồi trên ghe nhỏ, gọi một tô bún riêu cua hay hủ tiếu giò heo nóng hổi từ chiếc ghe bán đồ ăn lướt nhẹ bên cạnh. Bưng tô bún nóng bốc khói, húp thìa nước dùng ngọt thanh trong nhịp bồng bềnh dập dềnh của con sóng là trải nghiệm thi vị chỉ có ở miền Tây."
+      },
+      {
+        "type": "quote",
+        "text": "Chợ nổi Cái Răng ba bề sóng vỗ / Ghe thuyền tấp nập sớm trưa đi về."
+      }
+    ],
+    "references": [
+      {
+        "title": "Chợ nổi Cái Răng - Di sản văn hóa phi vật thể quốc gia",
+        "source": "Sở Văn hóa Thể thao & Du lịch Cần Thơ (2016)",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Áo bà ba và chiếc khăn rằn – Biểu tượng duyên dáng của người miền Tây",
+    "slug": "ao-ba-ba-va-chiec-khan-ran",
+    "categoryId": 4,
+    "categoryName": "Văn hóa truyền thống",
+    "description": "Chiếc áo bà ba mộc mạc cùng chiếc khăn rằn sọc ca rô đen trắng vắt ngang vai đã trở thành biểu tượng thân thương gắn liền với hình ảnh người mẹ, người chị đôn hậu phương Nam.",
+    "image": "/images/articles/ao-ba-ba-khan-ran.svg",
+    "gallery": [
+      "/images/articles/ao-ba-ba-khan-ran.svg",
+      "/images/articles/con-nguoi-mien-tay.svg"
+    ],
+    "author": "Đặng Thị Mai",
+    "publishedAt": "2026-09-05",
+    "readTime": "4 phút đọc",
+    "featured": false,
+    "isRiverLife": false,
+    "content": [
+      {
+        "type": "heading",
+        "text": "Nét đẹp dung dị trong đời sống thường nhật"
+      },
+      {
+        "type": "paragraph",
+        "text": "Áo bà ba được thiết kế không có cổ áo cầu kỳ, thân áo may bằng các chất liệu nhẹ nhàng, thoáng mát như vải ú, tơ tằm, xoa, voan. Hai tà áo xẻ bên hông giúp người mặc cử động thoải mái khi chèo xuồng, gặt lúa hay đi chợ."
+      },
+      {
+        "type": "paragraph",
+        "text": "Cùng với chiếc nón lá chóp nhọn nghiêng nghiêng, chiếc khăn rằn vừa có công dụng che nắng lau mồ hôi, vừa tôn lên nét duyên thầm dịu dàng, kín đáo nhưng cũng rất khỏe khoắn của phụ nữ Nam Bộ."
+      },
+      {
+        "type": "quote",
+        "text": "Chiếc áo bà ba trên dòng sông xanh thẳm / Thấp thoáng con xuồng bé nhỏ lướt nhanh..."
+      }
+    ],
+    "references": [
+      {
+        "title": "Trang phục truyền thống các dân tộc Việt Nam",
+        "source": "NXB Văn Hóa Dân Tộc (2017)",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Lễ hội vía Bà Chúa Xứ núi Sam – Tín ngưỡng linh thiêng xứ An Giang",
+    "slug": "le-hoi-via-ba-chua-xu-nui-sam",
+    "categoryId": 1,
+    "categoryName": "Lễ hội & phong tục",
+    "description": "Hàng triệu du khách và đồng bào cả nước hướng về Châu Đốc mỗi dịp tháng tư âm lịch để tham dự lễ hội vía Bà Chúa Xứ, cầu mong quốc thái dân an, gia đạo bình yên và tài lộc tốt tươi.",
+    "image": "/images/articles/ba-chua-xu.svg",
+    "gallery": [
+      "/images/articles/ba-chua-xu.svg",
+      "/images/articles/ok-om-bok.svg"
+    ],
+    "author": "Phạm Quốc Toàn",
+    "publishedAt": "2026-08-30",
+    "readTime": "5 phút đọc",
+    "featured": false,
+    "isRiverLife": false,
+    "content": [
+      {
+        "type": "heading",
+        "text": "Tín ngưỡng thờ Mẫu giữa lòng Thất Sơn hùng vĩ"
+      },
+      {
+        "type": "paragraph",
+        "text": "Miếu Bà Chúa Xứ tọa lạc dưới chân núi Sam, thuộc phường Núi Sam, TP. Châu Đốc, tỉnh An Giang. Lễ hội diễn ra từ ngày 22 đến 27 tháng 4 âm lịch, với các nghi lễ trang nghiêm như Lễ Tắm Bà, Lễ Thỉnh Sắc Thoại Ngọc Hầu, Lễ Túc Yết và Lễ Chánh Tế."
+      },
+      {
+        "type": "paragraph",
+        "text": "Nghi thức Tắm Bà lúc nửa đêm là giây phút linh thiêng nhất. Tượng Bà được lau rửa bằng nước thơm nấu từ các loài hoa cỏ thảo mộc và khoác lên mình bộ xiêm y gấm vóc lộng lẫy do các Phật tử thành tâm cung tiến."
+      },
+      {
+        "type": "quote",
+        "text": "Dòng người hành hương dâng nén hương trầm gửi gắm niềm tin tâm linh chân thành vào đức Mẫu chở che cho cuộc sống ấm no."
+      }
+    ],
+    "references": [
+      {
+        "title": "Lễ hội Vía Bà Chúa Xứ Núi Sam được công nhận là Di sản văn hóa phi vật thể quốc gia",
+        "source": "Cổng TTĐT Tỉnh An Giang (2015)",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Văn hóa bánh dân gian Nam Bộ – Sắc màu ngọt ngào từ hạt gạo quê",
+    "slug": "van-hoa-banh-dan-gian-nam-bo",
+    "categoryId": 2,
+    "categoryName": "Ẩm thực",
+    "description": "Từ hạt gạo thơm của cánh đồng phù sa, đôi bàn tay khéo léo của các má, các dì miền Tây đã sáng tạo nên hàng trăm thứ bánh dân gian vừa đẹp mắt vừa thơm ngọt đậm tình quê.",
+    "image": "/images/articles/banh-dan-gian.svg",
+    "gallery": [
+      "/images/articles/banh-dan-gian.svg",
+      "/images/articles/am-thuc-mua-nuoc-noi.svg"
+    ],
+    "author": "Võ Hồng Ngọc",
+    "publishedAt": "2026-08-22",
+    "readTime": "5 phút đọc",
+    "featured": false,
+    "isRiverLife": false,
+    "content": [
+      {
+        "type": "heading",
+        "text": "Hương vị thiên nhiên kết tinh trong từng lớp bánh"
+      },
+      {
+        "type": "paragraph",
+        "text": "Bánh dân gian Nam Bộ sử dụng hoàn toàn màu sắc tự nhiên từ cây lá quanh vườn: màu tím của lá cẩm, màu xanh ngắt thơm nồng của lá dứa, màu vàng óng ả của hạt dành dành hay màu đen huyền từ tro trấu lá dừa nếp."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ai từng đến miền Tây khó có thể quên hương vị của bánh xèo giòn rụm với nhân tép bạc đậu xanh; đòn bánh tét lá cẩm thơm phức bọc trứng muối béo ngậy; bánh bò thốt nốt mềm xốp ngào ngạt mùi đường xứ Tri Tôn hay chiếc bánh da lợn nhiều tầng dẻo dai."
+      },
+      {
+        "type": "quote",
+        "text": "Mỗi đĩa bánh dân gian không chỉ là món quà vặt thơm thảo mà còn chứa đựng cả ký ức tuổi thơ êm đềm bên chái bếp củi của mẹ."
+      }
+    ],
+    "references": [
+      {
+        "title": "Lễ hội Bánh Dân gian Nam Bộ thường niên tại Cần Thơ",
+        "source": "UBND Thành phố Cần Thơ (2023)",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Chiếc xuồng ba lá – Tri kỷ trên dòng kênh rạch miền Tây",
+    "slug": "chiec-xuong-ba-la-tri-ky-song-nuoc",
+    "categoryId": 5,
+    "categoryName": "Đời sống sông nước",
+    "description": "Chiếc xuồng ba lá là phương tiện giao thông và mưu sinh quen thuộc nhất, gắn liền với tuổi thơ, tình yêu và cả cuộc đời mưu sinh của mỗi người dân sinh sống ven bờ kinh rạch.",
+    "image": "/images/articles/xuong-ba-la.svg",
+    "gallery": [
+      "/images/articles/xuong-ba-la.svg",
+      "/images/articles/cho-noi-cai-rang.svg"
+    ],
+    "author": "Lý Văn Hòa",
+    "publishedAt": "2026-08-15",
+    "readTime": "6 phút đọc",
+    "featured": true,
+    "isRiverLife": true,
+    "content": [
+      {
+        "type": "heading",
+        "text": "Cấu trúc độc đáo của chiếc xuồng ba lá"
+      },
+      {
+        "type": "paragraph",
+        "text": "Đúng như tên gọi của nó, xuồng ba lá được ghép lại từ ba tấm ván gỗ (thường là gỗ sao hoặc dầu dẻo dai chịu nước mặn ngọt tốt): một tấm ván đáy dài nằm ở giữa và hai tấm ván be ép uốn cong hai bên mạn xuồng."
+      },
+      {
+        "type": "paragraph",
+        "text": "Mũi xuồng thon gọn, đáy phẳng nhẹ giúp xuồng có thể dễ dàng len lỏi luồn qua những con rạch ngoằn ngoèo nông cạn, luồn lách qua các lùm dừa nước hay rừng tràm ngập nước một cách uyển chuyển."
+      },
+      {
+        "type": "heading",
+        "text": "Gắn liền với đời sống từ thuở lọt lòng"
+      },
+      {
+        "type": "paragraph",
+        "text": "Trên chiếc xuồng ba lá, người nông dân chở lúa, chở rơm, giăng lưới bắt cá; mẹ chở rau củ ra chợ bán; trẻ thơ ríu rít chèo xuồng đi tìm con chữ con số. Chiếc xuồng chính là đôi chân của người đồng bằng trên mê lộ kênh rạch chằng chịt."
+      },
+      {
+        "type": "quote",
+        "text": "Chèo xuồng ba lá đưa em qua sông / Nước ròng con nước lớn mênh mông câu hò."
+      }
+    ],
+    "references": [
+      {
+        "title": "Văn minh sông nước miền Tây Nam Bộ",
+        "source": "Nhà nghiên cứu Sơn Nam (NXB Trẻ)",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Nghề nuôi cá bè trên sông Tiền, sông Hậu – Bức tranh trù phú châu thổ",
+    "slug": "nghe-nuoi-ca-be-song-tien-song-hau",
+    "categoryId": 5,
+    "categoryName": "Đời sống sông nước",
+    "description": "Những làng bè nổi nối dài hàng cây số bồng bềnh trên dòng sông lớn tạo nên một bức tranh thủy mặc sống động, minh chứng cho sức sáng tạo và khả năng thích nghi tuyệt vời với thiên nhiên.",
+    "image": "/images/articles/nuoi-ca-be.svg",
+    "gallery": [
+      "/images/articles/nuoi-ca-be.svg",
+      "/images/banners/hero-mekong.svg"
+    ],
+    "author": "Nguyễn Hoàng Nam",
+    "publishedAt": "2026-08-05",
+    "readTime": "5 phút đọc",
+    "featured": false,
+    "isRiverLife": true,
+    "content": [
+      {
+        "type": "heading",
+        "text": "Làng nổi trên sông - Phố xá bồng bềnh"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tại ngã ba sông Châu Đốc (An Giang) hay cồn Tân Lộc (Cần Thơ), du khách sẽ ngỡ ngàng trước hàng trăm ngôi nhà bè nổi san sát nhau. Phía trên là không gian sinh hoạt ấm cúng của gia đình, phía dưới là lồng bè nuôi cá ba sa, cá tra, cá he, cá lăng nước ngọt."
+      },
+      {
+        "type": "paragraph",
+        "text": "Dòng nước sông Tiền, sông Hậu cuồn cuộn chảy cung cấp lượng oxy dồi dào và thức ăn phù du tự nhiên, giúp con cá nuôi trên bè khỏe mạnh, thịt săn chắc và không bị tanh mùi bùn."
+      },
+      {
+        "type": "quote",
+        "text": "Cuộc sống trên bè nổi vừa bình dị lại vừa phóng khoáng, mở mắt ra là thấy nước biếc mây trời bao la."
+      }
+    ],
+    "references": [
+      {
+        "title": "Làng cá bè Châu Đốc - Điểm đến văn hóa đặc thù Nam Bộ",
+        "source": "Tạp chí Du lịch Việt Nam (2022)",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Chợ nổi Ngã Năm – Giao lộ của năm nhánh sông cổ xưa",
+    "slug": "cho-noi-nga-nam-giao-lo-nam-nhanh-song",
+    "categoryId": 5,
+    "categoryName": "Đời sống sông nước",
+    "description": "Nằm tại thị xã Ngã Năm (Sóc Trăng), nơi hội tụ của 5 con sông tỏa về các ngả: Cà Mau, Vĩnh Quới, Long Mỹ, Thạnh Trị, Phụng Hiệp. Đây là một trong những chợ nổi cổ kính giữ nguyên vẹn nét hoang sơ mộc mạc.",
+    "image": "/images/articles/cho-noi-nga-nam.svg",
+    "gallery": [
+      "/images/articles/cho-noi-nga-nam.svg",
+      "/images/articles/cho-noi-cai-rang.svg"
+    ],
+    "author": "Ban Biên Tập SoulOfMekong",
+    "publishedAt": "2026-07-25",
+    "readTime": "4 phút đọc",
+    "featured": false,
+    "isRiverLife": true,
+    "content": [
+      {
+        "type": "heading",
+        "text": "Vẻ đẹp thuần chất không vướng bụi thương mại hóa"
+      },
+      {
+        "type": "paragraph",
+        "text": "Chợ nổi Ngã Năm họp rất sớm, từ 3 giờ sáng đã tấp nập tiếng cười nói của thương hồ. Điểm đặc biệt là chợ vẫn chủ yếu phục vụ nhu cầu trao đổi buôn bán nông sản của cư dân quanh vùng chứ không bị tác động nhiều bởi du lịch công nghiệp."
+      },
+      {
+        "type": "paragraph",
+        "text": "Từ củ cải trắng Bạc Liêu, bắp cải Sóc Trăng cho đến trái khóm Cầu Đúc Hậu Giang... tất cả dập dìu qua lại trên mặt sông trong không khí thân tình, ấm áp giữa người mua và người bán."
+      }
+    ],
+    "references": [
+      {
+        "title": "Khảo cứu địa chí sông nước Sóc Trăng",
+        "source": "Hội Khoa học Lịch sử Sóc Trăng (2021)",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Đêm hội hoa đăng lung linh trên dòng sông Tây Đô",
+    "slug": "dem-hoi-hoa-dang-lung-linh-tay-do",
+    "categoryId": 1,
+    "categoryName": "Lễ hội & phong tục",
+    "description": "Đêm hội thả hoa đăng là nét sinh hoạt văn hóa tinh thần tươi đẹp của người Cần Thơ, gửi gắm ước nguyện cầu mong mưa thuận gió hòa, quê hương phồn vinh và cuộc sống ấm no thanh bình.",
+    "image": "/images/articles/dem-hoa-dang.svg",
+    "gallery": [
+      "/images/articles/dem-hoa-dang.svg",
+      "/images/banners/hero-mekong.svg"
+    ],
+    "author": "Vũ Hải Đăng",
+    "publishedAt": "2026-07-12",
+    "readTime": "5 phút đọc",
+    "featured": false,
+    "isRiverLife": false,
+    "content": [
+      {
+        "type": "heading",
+        "text": "Ánh sáng tâm linh soi tỏ mặt nước Cần Thơ"
+      },
+      {
+        "type": "paragraph",
+        "text": "Vào những dịp lễ lớn như rằm Trung Thu hay ngày hội Văn hóa - Du lịch sông nước, hàng vạn chiếc đèn hoa đăng được người dân và du khách thắp sáng rồi thả trôi trên bến Ninh Kiều lịch sử."
+      },
+      {
+        "type": "paragraph",
+        "text": "Mỗi ngọn nến le lói trên cánh sen giấy trôi bồng bềnh chở theo một lời cầu chúc an lành cho cha mẹ, người thân và đồng bào. Mặt sông Hậu rực sáng như dải ngân hà lấp lánh phản chiếu tâm hồn thuần hậu của người phương Nam."
+      },
+      {
+        "type": "quote",
+        "text": "Thả chiếc thuyền hoa xuống dòng nước trôi / Gửi niềm mong ước rạng ngời mai sau."
+      }
+    ],
+    "references": [
+      {
+        "title": "Bảo tồn lễ hội truyền thống đô thị sông nước Cần Thơ",
+        "source": "Viện Văn hóa Nghệ thuật Quốc gia (2022)",
+        "url": "#"
+      }
+    ]
+  }
+]

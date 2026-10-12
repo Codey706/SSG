@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Một ngày trên chợ nổi Cái Răng – Hương vị sông nước miền Tây",
+    "duration": "03:45",
+    "thumbnail": "/images/articles/cho-noi-cai-rang.svg",
+    "author": "SoulOfMekong Media",
+    "views": "12.5K",
+    "description": "Cùng trải nghiệm ăn tô bún riêu dập dềnh trên sóng nước và ngắm nhìn cây bẹo buổi bình minh."
+  },
+  {
+    "id": 2,
+    "title": "Tiếng chày gõ nhịp: Nghề tráng bánh Thuận Hưng hơn 200 năm",
+    "duration": "04:12",
+    "thumbnail": "/images/villages/banh-trang-thuan-hung.svg",
+    "author": "SoulOfMekong Media",
+    "views": "8.9K",
+    "description": "Khám phá bàn tay khéo léo của các bà, các mẹ tạo nên chiếc bánh tráng mỏng tang dẻo thơm."
+  },
+  {
+    "id": 3,
+    "title": "Bản hòa tấu Dạ Cổ Hoài Lang trên sông Hậu thanh bình",
+    "duration": "05:20",
+    "thumbnail": "/images/articles/don-ca-tai-tu.svg",
+    "author": "SoulOfMekong Media",
+    "views": "15.2K",
+    "description": "Lắng nghe thanh âm đàn kìm réo rắt trong không gian êm đềm của vùng đất chín rồng."
+  }
+]

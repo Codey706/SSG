@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Lễ hội & phong tục",
+    "slug": "le-hoi-phong-tuc",
+    "description": "Những ngày hội truyền thống đậm đà bản sắc tâm linh và tinh thần cố kết cộng đồng miền châu thổ.",
+    "icon": "bi-calendar-event",
+    "image": "/images/articles/ok-om-bok.svg"
+  },
+  {
+    "id": 2,
+    "name": "Ẩm thực",
+    "slug": "am-thuc",
+    "description": "Hương vị sản vật thiên nhiên ban tặng, từ mùa nước nổi đến những món bánh dân gian ngọt lành.",
+    "icon": "bi-cup-hot",
+    "image": "/images/articles/am-thuc-mua-nuoc-noi.svg"
+  },
+  {
+    "id": 3,
+    "name": "Con người",
+    "slug": "con-nguoi",
+    "description": "Nét hào sảng, chân chất, nghĩa tình và lòng mến khách tạo nên cốt cách người phương Nam.",
+    "icon": "bi-people",
+    "image": "/images/articles/con-nguoi-mien-tay.svg"
+  },
+  {
+    "id": 4,
+    "name": "Văn hóa truyền thống",
+    "slug": "van-hoa-truyen-thong",
+    "description": "Những di sản vô giá như Đờn ca tài tử, áo bà ba, nếp sống gia đình và tinh hoa tiền nhân truyền lại.",
+    "icon": "bi-bookmark-star",
+    "image": "/images/articles/don-ca-tai-tu.svg"
+  },
+  {
+    "id": 5,
+    "name": "Đời sống sông nước",
+    "slug": "doi-song-song-nuoc",
+    "description": "Nhịp sống bồng bềnh theo con nước lớn ròng, chợ nổi rộn rã và tiếng chèo khua sớm mai.",
+    "icon": "bi-water",
+    "image": "/images/articles/cho-noi-cai-rang.svg"
+  }
+]

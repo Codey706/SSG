@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 500" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#184e3f"/>
+      <stop offset="60%" stop-color="#12392c"/>
+      <stop offset="100%" stop-color="#0b2f23"/>
+    </linearGradient>
+    <linearGradient id="sun" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFD166" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#F77F00" stop-opacity="0.2"/>
+    </linearGradient>
+    <linearGradient id="water" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1b4d3e" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#0a251b" stop-opacity="0.95"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1400" height="500" fill="url(#bg)"/>
+
+  <!-- Sun / Dawn Aura -->
+  <circle cx="950" cy="240" r="160" fill="url(#sun)" filter="url(#glow)"/>
+  
+  <!-- Distant Clouds & Birds -->
+  <path d="M820,120 Q840,110 860,120 Q880,110 900,120" stroke="#FFD166" stroke-width="2.5" fill="none" opacity="0.6"/>
+  <path d="M890,100 Q905,92 920,100 Q935,92 950,100" stroke="#FFD166" stroke-width="2" fill="none" opacity="0.5"/>
+  <path d="M750,140 Q765,132 780,140 Q795,132 810,140" stroke="#FFD166" stroke-width="2" fill="none" opacity="0.5"/>
+
+  <!-- Distant Mountains/Tree silhouettes -->
+  <path d="M0,320 Q300,280 600,310 T1200,290 L1400,310 L1400,500 L0,500 Z" fill="#0d3b2c" opacity="0.7"/>
+  <path d="M0,350 Q250,330 500,345 T1000,335 T1400,350 L1400,500 L0,500 Z" fill="#09281e" opacity="0.9"/>
+
+  <!-- River Water Surface -->
+  <rect y="360" width="1400" height="140" fill="url(#water)"/>
+  <ellipse cx="950" cy="380" rx="200" ry="8" fill="#FFD166" opacity="0.3" filter="url(#glow)"/>
+  <ellipse cx="950" cy="410" rx="150" ry="6" fill="#F77F00" opacity="0.25"/>
+
+  <!-- Coconut Palms & Riverside vegetation left -->
+  <g fill="#061c15">
+    <!-- Palm 1 -->
+    <path d="M120,450 Q110,340 70,220 Q120,240 180,210 Q140,250 160,280 Q100,270 70,220" stroke="#061c15" stroke-width="6"/>
+    <path d="M70,220 C20,190 -20,220 -40,260 C0,230 40,220 70,220 Z"/>
+    <path d="M70,220 C60,160 10,130 -30,140 C20,150 50,180 70,220 Z"/>
+    <path d="M70,220 C90,150 140,140 190,160 C140,170 100,190 70,220 Z"/>
+    <path d="M70,220 C130,200 180,230 220,270 C170,250 120,240 70,220 Z"/>
+    <!-- Palm 2 (Smaller) -->
+    <path d="M180,480 Q190,380 230,290" stroke="#061c15" stroke-width="7"/>
+    <path d="M230,290 C200,240 160,240 120,260 C160,250 200,265 230,290 Z"/>
+    <path d="M230,290 C250,230 290,220 340,230 C290,245 260,265 230,290 Z"/>
+    <path d="M230,290 C270,280 320,300 360,340 C310,320 270,305 230,290 Z"/>
+  </g>
+
+  <!-- Traditional Wooden Boat (Ghe/Xuồng) with Rower in Nón Lá -->
+  <g transform="translate(680, 310)">
+    <!-- Water Ripple -->
+    <ellipse cx="140" cy="85" rx="160" ry="6" fill="#FFD166" opacity="0.3"/>
+    <!-- Boat Body -->
+    <path d="M10,75 Q80,95 240,88 Q280,82 300,60 Q240,78 60,65 Z" fill="#1b120c"/>
+    <path d="M20,72 Q80,90 230,84 Q260,80 280,63" stroke="#D9A441" stroke-width="2" fill="none"/>
+    <!-- Cargo (fruits/produce) -->
+    <ellipse cx="110" cy="66" rx="30" ry="12" fill="#D9A441"/>
+    <ellipse cx="145" cy="65" rx="25" ry="10" fill="#2E7D59"/>
+    <!-- Boatman with Nón Lá & Oar -->
+    <!-- Torso -->
+    <path d="M205,68 Q210,45 205,35 Q200,45 195,68 Z" fill="#2b231d"/>
+    <!-- Nón Lá (Conical Hat) -->
+    <polygon points="182,35 228,35 205,15" fill="#E8C371"/>
+    <!-- Oar (Mái chèo) -->
+    <line x1="225" y1="45" x2="255" y2="95" stroke="#8D5B28" stroke-width="3.5"/>
+    <ellipse cx="258" cy="98" rx="8" ry="4" fill="#6A421D" transform="rotate(30 258 98)"/>
+  </g>
+
+  <!-- Decorative Overlay Frame for Content -->
+  <rect x="50" y="40" width="700" height="420" rx="16" fill="#145a43" fill-opacity="0.82" stroke="#D9A441" stroke-width="2"/>
+  <rect x="62" y="52" width="676" height="396" rx="12" fill="none" stroke="#D9A441" stroke-dasharray="8 6" stroke-opacity="0.4"/>
+
+  <!-- Texts -->
+  <text x="100" y="140" font-family="'Be Vietnam Pro', sans-serif" font-weight="800" font-size="50" fill="#FAF8F1" letter-spacing="1">
+    Tham Khảo & Về Chúng Tôi
+  </text>
+  <text x="100" y="195" font-family="'Be Vietnam Pro', sans-serif" font-weight="700" font-size="24" fill="#D9A441">
+    Cùng nhau gìn giữ và lan tỏa hồn quê miền Tây
+  </text>
+  <line x1="100" y1="225" x2="280" y2="225" stroke="#D9A441" stroke-width="3"/>
+  <circle cx="280" cy="225" r="5" fill="#D9A441"/>
+
+  <!-- Tagline text -->
+  <text x="100" y="275" font-family="'Be Vietnam Pro', sans-serif" font-size="16" fill="#E8F3EA" opacity="0.95">
+    Khám phá những câu chuyện, làng nghề và nét đẹp văn hóa
+  </text>
+  <text x="100" y="305" font-family="'Be Vietnam Pro', sans-serif" font-size="16" fill="#E8F3EA" opacity="0.95">
+    đặc trưng của vùng đất chín rồng Tây Nam Bộ.
+  </text>
+
+  <!-- Lotus Icon Symbol in Corner -->
+  <g transform="translate(640, 75) scale(0.6)" fill="#D9A441">
+    <path d="M30,10 C35,25 25,45 0,50 C25,45 35,25 30,10 Z"/>
+    <path d="M30,10 C25,25 35,45 60,50 C35,45 25,25 30,10 Z"/>
+    <path d="M30,5 C20,25 5,40 -25,40 C5,35 20,25 30,5 Z"/>
+    <path d="M30,5 C40,25 55,40 85,40 C55,35 40,25 30,5 Z"/>
+  </g>
+</svg>

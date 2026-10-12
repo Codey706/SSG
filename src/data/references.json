@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Hồ sơ đệ trình UNESCO: Nghệ thuật Đờn ca tài tử Nam Bộ",
+    "author": "Viện Văn hóa Nghệ thuật Quốc gia Việt Nam",
+    "year": "2013",
+    "category": "Di sản & Nghệ thuật",
+    "url": "https://ich.unesco.org/en/RL/art-of-don-ca-tai-tu-music-and-song-in-southern-viet-nam-00733",
+    "description": "Tài liệu khoa học toàn diện về nguồn gốc hình thành, cấu trúc nhạc lý và không gian diễn xướng của Đờn ca tài tử tại 21 tỉnh thành Nam Bộ."
+  },
+  {
+    "id": 2,
+    "title": "Văn minh sông nước miền Tây Nam Bộ",
+    "author": "Sơn Nam (Nhà văn, nhà nghiên cứu văn hóa Nam Bộ)",
+    "year": "2004",
+    "category": "Lịch sử & Đời sống sông nước",
+    "url": "https://nxbtr.com.vn",
+    "description": "Công trình nghiên cứu kinh điển về địa lý, phong tục tập quán, tiếng nói, nếp sinh hoạt và quá trình khai phá vùng đất Nam Bộ của tiền nhân."
+  },
+  {
+    "id": 3,
+    "title": "Di sản văn hóa phi vật thể quốc gia: Lễ hội Ok Om Bok và Đua ghe Ngo",
+    "author": "Cục Di sản Văn hóa - Bộ Văn hóa, Thể thao và Du lịch",
+    "year": "2014",
+    "category": "Lễ hội & Phong tục",
+    "url": "https://dsvh.gov.vn",
+    "description": "Quyết định và tài liệu kiểm kê di sản văn hóa phi vật thể của cộng đồng người Khmer các tỉnh Trà Vinh và Sóc Trăng."
+  },
+  {
+    "id": 4,
+    "title": "Bảo tồn văn hóa chợ nổi vùng đồng bằng sông Cửu Long",
+    "author": "Trường Đại học Cần Thơ - Khoa Khoa học Xã hội & Nhân văn",
+    "year": "2021",
+    "category": "Giao thương đường thủy",
+    "url": "https://ctu.edu.vn",
+    "description": "Báo cáo nghiên cứu thực trạng và giải pháp gìn giữ văn hóa chợ nổi Cái Răng, Ngã Năm, Phong Điền trong bối cảnh phát triển đô thị."
+  },
+  {
+    "id": 5,
+    "title": "Làng nghề truyền thống đồng bằng sông Cửu Long – Thực trạng và triển vọng",
+    "author": "Viện Khoa học Xã hội Vùng Nam Bộ",
+    "year": "2019",
+    "category": "Làng nghề truyền thống",
+    "url": "#",
+    "description": "Nghiên cứu về hơn 150 làng nghề truyền thống ở miền Tây: nghề dệt chiếu Định Yên, gốm đỏ Vĩnh Long, bánh tráng Thuận Hưng, nghề đan lát lục bình."
+  },
+  {
+    "id": 6,
+    "title": "Văn hóa ẩm thực dân gian Nam Bộ",
+    "author": "Huỳnh Ngọc Trảng & Trương Ngọc Tường",
+    "year": "2018",
+    "category": "Ẩm thực dân gian",
+    "url": "#",
+    "description": "Khảo cứu công phu về cội nguồn, cách chế biến và ý nghĩa nhân sinh của các món ăn mùa nước nổi, bánh dân gian và mâm cơm gia đình miền Tây."
+  }
+]
